@@ -1,0 +1,28 @@
+{
+    "sorular":[
+        {
+            "soru":"Aşağıdakilerden hangisi Türkiye' nin başkentidir?",
+            "secenekA":"Ankara",
+            "secenekB":"Erzurum",
+            "secenekC":"Konya",
+            "secenekD":"İstanbul",
+            "cevap":"secenekA"
+        },
+        {
+            "soru":"Aşağıdakilerden şehirlerden hangisi en kalabalıktır? ",
+            "secenekA":"Ankara",
+            "secenekB":"Bursa",
+            "secenekC":"Konya",
+            "secenekD":"Erzurum",
+            "cevap":"secenekA"
+        },
+        {
+            "soru":"Aşağıdakilerden hangisi İç Anadolu Bölgesinde yer alır?",
+            "secenekA":"Ankara",
+            "secenekB":"Bursa",
+            "secenekC":"Erzurum",
+            "secenekD":"İstanbul",
+            "cevap":"secenekA"
+        }
+    ]
+}
